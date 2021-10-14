@@ -1,2 +1,0 @@
-# fastAi
-Projects for FastAi
